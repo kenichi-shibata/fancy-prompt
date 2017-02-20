@@ -1,6 +1,6 @@
 # install bashrc
 
-g`it clone https://github.com/kenichi-shibata/fancy-prompt.git ~/.oh-my-git && cp ~/.oh-my-git/.bashrc ~/.bashrc && echo source ~/.oh-my-git/prompt.sh >> ~/.bashrc`
+`git clone https://github.com/kenichi-shibata/fancy-prompt.git ~/.oh-my-git && cp ~/.oh-my-git/.bashrc ~/.bashrc && echo source ~/.oh-my-git/prompt.sh >> ~/.bashrc`
 
 
 # PICS
